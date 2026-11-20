@@ -1,2 +1,4 @@
 # Techy-Quiz
 A python and sql-based quiz using mysql and functions in python
+As part of my cbse curriculum, I was introduced to fundamental concepts of Python and SQL. This project allowed me to apply these concepts by developing a quiz. I used the mysql.connector module to communicate  with the MySQL database. The users can create an account, log in, take a quiz, view their scores, and compete on the leaderboard.  The quiz features 20 multiple-choice questions covering concepts of Python and SQL. The program calculates the score based on the user’s responses. These scores are stored in the MySQL database and are updated if the user takes a retest. They can view their rank on a leaderboard and compare their scores with other participants. It also allows the users to create a password which can be changed as per their requirement. 
+
